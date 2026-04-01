@@ -1,0 +1,5 @@
+{
+  "name": "Citipedia",
+  "description": "AI-powered urban data platform for city governments. Notion + Google Drive + GIS + AI copilot for city hall.",
+  "requestFramePermissions": ["geolocation"]
+}
